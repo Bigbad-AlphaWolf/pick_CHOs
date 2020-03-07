@@ -29,3 +29,21 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # pick_CHOs
 
 Small angular app created for selecting 2 persons among all those already created.
+
+# Main App Features
+
+-2 pages:
+\*Accueil:
+Appuyer sur le bouter Choisir les CHOs de la Semaine pour voir s'afficher 2 noms de personnes.
+
+\*Administration de la liste de personnes
+On voit la liste des personnes ajoutées.
+On peut ajouter une nouvelle personne avec le bouter (+) ajouter.
+On peut enlever une personne déjà ajoutée avec le bouton (-) enlever.
+
+\*A propos:
+Mettre les infos nécessaires à propos de l'application
+
+# Database
+
+I will need to interconnect my app with a database (maybe Firebase).
