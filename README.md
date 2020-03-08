@@ -26,13 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# pick_CHOs
+# Pick_CHOs
 
 Small angular app created for selecting 2 persons among all those already created.
 
 # Main App Features
 
 -2 pages:
+
 \*Accueil:
 Appuyer sur le bouter Choisir les CHOs de la Semaine pour voir s'afficher 2 noms de personnes.
 
