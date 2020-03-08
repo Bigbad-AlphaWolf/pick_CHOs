@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "pick-chos-pole-digital",
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
