@@ -32,7 +32,7 @@ Small angular app created for selecting 2 persons among all those already create
 
 # Main App Features
 
--2 pages:
+-3 pages:
 
 \*Accueil:
 Appuyer sur le bouter Choisir les CHOs de la Semaine pour voir s'afficher 2 noms de personnes.
